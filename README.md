@@ -1,9 +1,9 @@
-![image](https://github.com/mounishvatti/machine_learning-Football-Prediction-/assets/76279858/b4d59bae-9c91-4cfd-8adb-48f5a392b516)
 
+<img src="https://github.com/mounishvatti/machine_learning-Football-Prediction-/assets/76279858/b4d59bae-9c91-4cfd-8adb-48f5a392b516" width="600">
 ## Football Prediction using Machine learning algorithms
 
 
-## Project Overview:
+### Project Overview:
 
 1. **Objective:**
    - The primary goal of this project is to predict the winners of English Premier League (EPL) matches using a combination of machine learning, data scraping, and data cleaning techniques.
